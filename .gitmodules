@@ -1,0 +1,3 @@
+[submodule "DIAL"]
+	path = DIAL
+	url = https://github.com/minqi/learning-to-communicate-pytorch
